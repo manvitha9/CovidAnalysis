@@ -28,7 +28,7 @@ hyperlink==19.0.0
 idna==2.9
 incremental==17.5.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kiwisolver==1.2.0
 korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9

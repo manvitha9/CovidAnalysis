@@ -32,7 +32,7 @@ Jinja2==2.11.2
 kiwisolver==1.2.0
 korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9
-lxml==4.5.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mysql-connector==2.2.9
